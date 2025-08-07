@@ -1,0 +1,75 @@
+7
+fortune 1000
+service 5000
+property
+fortune 2000
+service 3000
+property
+fortune 3000
+5
+aladar greedy
+adam greedy
+bela careful
+cecilia tactician
+csabi tactician
+12
+6
+4
+5
+4
+2
+5
+5
+5
+6
+2
+1
+4
+2
+1
+2
+4
+5
+6
+1
+1
+4
+1
+2
+6
+6
+3
+2
+6
+5
+2
+3
+1
+4
+5
+1
+2
+1
+6
+1
+5
+3
+5
+6
+5
+5
+6
+3
+5
+5
+6
+5
+4
+4
+6
+5
+2
+4
+2
+5
+1
